@@ -1,0 +1,8 @@
+### Common ###
+/logs
+autoconf.log
+.classpath
+.project
+.settings/
+.DS_Store
+
